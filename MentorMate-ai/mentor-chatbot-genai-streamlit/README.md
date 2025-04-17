@@ -27,8 +27,8 @@ Built using Google Gemini API and JSearch (via RapidAPI), this tool combines pow
 1. ***Clone the repository***
 
     ```bash
-    git clone https://github.com/yourusername/mentormate-ai
-    cd mentormate-ai
+    git clone https://github.com/Subham0822/mentormate-ai
+    cd mentormate-ai/mentor-chatbot-genai-streamlit
     ```
     
 2. ***Set up virtual environment (optional)***
