@@ -1,0 +1,6 @@
+requests
+google-generativeai
+pillow
+python-dotenv
+
+# pip install -r requirements.txt
